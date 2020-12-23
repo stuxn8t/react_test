@@ -1,0 +1,17 @@
+.mainvar {
+  display: flex;
+  padding: 10px;
+  width: 100%;
+  font-size: 30px;
+  background-color: darkred;
+  font-weight: 800;
+}
+
+.sidevar {
+  display: flex;
+  flex-direction: column;
+  align-content: flex-start;
+  background-color: darkturquoise;
+
+  font-size: 50px;
+}

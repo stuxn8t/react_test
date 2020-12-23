@@ -1,0 +1,20 @@
+.title {
+  text-decoration: solid 2px;
+}
+
+.channelandtime {
+  display: flex;
+}
+
+.title {
+  margin-bottom: 0;
+}
+
+.channelId {
+  margin-right: 2em;
+  margin-top: 0;
+}
+
+.publishTime {
+  margin-top: 0;
+}
